@@ -1,6 +1,6 @@
 name: otel_zoho_crm
 description: "Dartastic OpenTelemetry bridge for Zoho CRM (records, modules, related lists, mass updates, blueprints, bulk read/write)."
-version: 0.1.0-beta.1-wip
+version: 0.1.0-beta.1
 repository: https://github.com/dartastic/otel_zoho_crm
 homepage: https://dartastic.io
 publish_to: https://pub.dartastic.io
